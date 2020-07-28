@@ -1,5 +1,5 @@
 ---
-name: 'Antrag: Autorenzugriff bei Memcode.com'
+name: 'Antrag: Autorenzugriff bei memcode.com'
 about: Beantrage Schreibrechte auf Memcode.com mit diesem Issue Typen.
 title: "[Memcode Zugriff] "
 labels: memcode
