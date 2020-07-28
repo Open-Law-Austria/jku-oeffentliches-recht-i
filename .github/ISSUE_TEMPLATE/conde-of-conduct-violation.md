@@ -8,7 +8,7 @@ assignees: daniel-eder
 ---
 
 **Reported GitHub Username:** *Who breached the code of conduct?*
+**Link to Issue/Comment/... :** *If appropriate, link to where the breach took place.*
+
 **Description:**  
 *Describe the violation of the code of conduct.*
-
-**Link to Issue/Comment/... :** *If appropriate, link to where the breach took place.*
