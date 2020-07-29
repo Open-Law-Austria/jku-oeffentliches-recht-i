@@ -1,5 +1,7 @@
 # JKU Öffentliches Recht I 
 
+In diesem Repository befinden sich Unterlagen für Öffentliches Recht I.
+
 ## Flashcards / Spaced Repetition
 Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2736/learn verfügbar.
 
