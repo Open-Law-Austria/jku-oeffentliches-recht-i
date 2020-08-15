@@ -6,7 +6,7 @@ In diesem Repository befinden sich Unterlagen für Öffentliches Recht I.
 Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2736/learn verfügbar.
 
 ### Status
-Der derzeitige Status ist im [Kanban Board](https://github.com/Open-Law-Austria/jku-oeffentliches-recht-i/projects/1) zu finden.
+Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
 
 ## Code of Conduct
 Wir erwarten von allen Teilnehmern an diesem Projekt, dass der [Code of Conduct](./CODE_OF_CONDUCT) eingehalten wird. 
