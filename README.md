@@ -16,5 +16,9 @@ Verstöße können via [Issue](https://github.com/Open-Law-Austria/jku-oeffentli
 Alle Beiträge, Korrekturen, Fragen und Ideen sind willkommen und werden geprüft und beantwortet.
 Für die Bearbeitung der Karteikarten in memcode.com ist eine Freischaltung erforderlich, diese kann via [Issue](https://github.com/Open-Law-Austria/jku-oeffentliches-recht-i/issues/new?assignees=daniel-eder&labels=memcode&template=antrag--autorenzugriff-bei-memcode-com.md&title=%5BMemcode+Zugriff%5D+) beantragt werden.
 
-# Licensing
-Alle Inhalte stehen unter der [MIT Lizenz](./LICENSE) öffentlich zur Verwendung und Anpassung Verfügung. 
+# Licensing and Copyright
+Copyright (c) 2020 Open Law Austria and all Contributors
+
+See [Contributors.md](./Contributors.md) for a list of contributors.
+
+Alle Inhalte stehen unter der [Creative Commons Attribution 4.0 International](./LICENSE) öffentlich zur Verwendung und Anpassung Verfügung. 
