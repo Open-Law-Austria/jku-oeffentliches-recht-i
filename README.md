@@ -3,7 +3,7 @@
 In diesem Repository befinden sich Unterlagen für Öffentliches Recht I.
 
 ## Flashcards / Spaced Repetition
-Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2736/learn verfügbar.
+Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2736 verfügbar.
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
